@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest: OTr0Vqh3kWd2PUPZCFZP9LGkiFA=
+
+Name: META-INF/com/android/otacert
+SHA1-Digest: 71Q6Rn2DDZl1zPDVaaeEHItd+Yg=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest: lf3/TrvZcCLxf7/wpdrHw094eh8=
+
+Name: META-INF/com/android/metadata
+SHA1-Digest: zIPshNp/XHiHMLEyDsaFxa+Vhmw=
+
+Name: addon.d/20-freecyngn.sh
+SHA1-Digest: jHqW2wgaHiXCFRxYzOzGldxbX20=
+
