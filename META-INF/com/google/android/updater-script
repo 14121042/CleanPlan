@@ -6,10 +6,10 @@ run_program("/sbin/busybox", "mount", "/data");
 
 ui_print("Extracting package...");
 package_extract_dir("addon.d", "/system/addon.d");
-set_perm(0,0,0755,"/system/addon.d/20-cleancm.sh");
+set_perm(0,0,0755,"/system/addon.d/20-cleanaosp.sh");
 
 ui_print("Cleaning up...");
-run_program("/system/addon.d/20-cleancm.sh");
+run_program("/system/addon.d/20-cleanaosp.sh");
 
 ui_print("Unmounting /system...");
 unmount("/system");
